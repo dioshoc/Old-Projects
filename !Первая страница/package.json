@@ -28,5 +28,7 @@
         "gulp-webpcss": "^1.1.1",
         "jquery": "^3.5.1"
     },
-    "dependencies": {}
+    "dependencies": {
+        "gulp-gitignore": "^0.1.0"
+    }
 }
